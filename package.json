@@ -2,9 +2,8 @@
   "name": "jtgonzaga-website",
   "version": "1.0.0",
   "description": "My Professional Website",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
-    "open-my-html":"open-cli ./index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
